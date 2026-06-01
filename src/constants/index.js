@@ -6,6 +6,11 @@ import shopify from '../assets/images/shopify.png';
 import starbucks from '../assets/images/starbucks.png';
 import tesla from '../assets/images/tesla.png';
 
+
+import python from '../assets/images/python.png';
+import django from '../assets/images/django.png';
+import mysql from '../assets/images/MySQL.png';
+
 import {
     contact,
     css,
@@ -47,20 +52,36 @@ export const skills = [
         name: "Tailwind CSS",
         type: "Frontend",
     },
+    // ✅ Now using correct images
     {
-        imageUrl: nodejs,
+        imageUrl: python,
         name: "Python",
         type: "Backend",
     },
     {
-        imageUrl: mongodb,
-        name: "SQL",
+        imageUrl: django,
+        name: "Django",
+        type: "Backend",
+    },
+    {
+        imageUrl: mysql,
+        name: "MySQL",
         type: "Database",
     },
     {
+        imageUrl: mongodb,
+        name: "MongoDB",
+        type: "Database",
+    },
+    {
+        imageUrl: nodejs,
+        name: "Node.js",
+        type: "Backend",
+    },
+    {
         imageUrl: nextjs,
-        name: "Machine Learning",
-        type: "Data Science",
+        name: "Next.js",
+        type: "Frontend",
     },
     {
         imageUrl: git,
