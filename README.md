@@ -75,7 +75,11 @@ npm run build
 
 ## 📸 Preview
 
-> Add a screenshot or GIF of your portfolio here.
+<img width="1920" height="1020" alt="Contact" src="https://github.com/user-attachments/assets/f2c4751f-722a-4d04-8863-df709b2d92de" />
+<img width="1920" height="1020" alt="Experience" src="https://github.com/user-attachments/assets/9f04be7d-0871-4a40-9c4c-7910bc17d96a" />
+<img width="1920" height="1020" alt="Projects" src="https://github.com/user-attachments/assets/7c25ab3c-98dd-4aa2-b323-8f568ce273af" />
+<img width="1920" height="1020" alt="Preview" src="https://github.com/user-attachments/assets/cb8cffc6-5c01-4853-aaa6-8584509394e9" />
+
 
 Example:
 
