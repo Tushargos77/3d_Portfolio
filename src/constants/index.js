@@ -5,7 +5,7 @@ import meta from '../assets/images/meta.png';
 import shopify from '../assets/images/shopify.png';
 import starbucks from '../assets/images/starbucks.png';
 import tesla from '../assets/images/tesla.png';
-
+import jobTracker from '../assets/images/Job-Tracker.png';
 
 import python from '../assets/images/python.png';
 import django from '../assets/images/django.png';
@@ -52,7 +52,6 @@ export const skills = [
         name: "Tailwind CSS",
         type: "Frontend",
     },
-    // ✅ Now using correct images
     {
         imageUrl: python,
         name: "Python",
@@ -155,6 +154,13 @@ export const projects = [
         name: 'Voice Assistant with GUI',
         description: 'An ongoing Python-based voice assistant with a modern web GUI built using web technologies. Features speech recognition, voice response, and an interactive interface.',
         iconUrl: meta,
+        link: 'https://github.com/Tushargos77',
+    },
+    {
+        theme: 'btn-back-green',
+        name: 'Job Tracker Application',
+        description: 'Built a full-stack Job Tracker application using React, FastAPI, and PostgreSQL. Features CRUD operations, a cloud-hosted database, RESTful APIs, and a deployed backend on Render.',
+        iconUrl: jobTracker,
         link: 'https://github.com/Tushargos77',
     },
 ];
